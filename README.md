@@ -2,6 +2,7 @@
 Developed the UVM based verification environment for the UART IP from scratch for the top-level verification. Created the constraint-random and achieved functional coverage greater than 85% with 9 different test cases.
 
 TEST CASES:-
+
   1. Full duplex
   2. Half duplex
   3. Loopback
